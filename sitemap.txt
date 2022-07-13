@@ -8,7 +8,7 @@ https://www.jyhao.cn/about/index.html
 https://www.jyhao.cn/tags/index.html
 https://www.jyhao.cn/categories/index.html
 https://www.jyhao.cn/
-https://www.jyhao.cn/tags/APP/
 https://www.jyhao.cn/tags/Termux/
 https://www.jyhao.cn/tags/Minecraft/
+https://www.jyhao.cn/tags/APP/
 https://www.jyhao.cn/categories/%E6%95%99%E7%A8%8B/
