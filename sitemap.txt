@@ -1,5 +1,5 @@
-https://www.jyhao.cn/friends/index.html
 https://www.jyhao.cn/archives/52037.html
+https://www.jyhao.cn/friends/index.html
 https://www.jyhao.cn/archives/25796.html
 https://www.jyhao.cn/archives/4452.html
 https://www.jyhao.cn/archives/16108.html
@@ -10,12 +10,12 @@ https://www.jyhao.cn/about/index.html
 https://www.jyhao.cn/tags/index.html
 https://www.jyhao.cn/categories/index.html
 https://www.jyhao.cn/
-https://www.jyhao.cn/tags/Diana/
-https://www.jyhao.cn/tags/MiBand/
 https://www.jyhao.cn/tags/APP/
 https://www.jyhao.cn/tags/Matery/
 https://www.jyhao.cn/tags/Hexo/
 https://www.jyhao.cn/tags/Termux/
 https://www.jyhao.cn/tags/Minecraft/
+https://www.jyhao.cn/tags/Diana/
+https://www.jyhao.cn/tags/MiBand/
 https://www.jyhao.cn/categories/Share/
 https://www.jyhao.cn/categories/%E6%95%99%E7%A8%8B/

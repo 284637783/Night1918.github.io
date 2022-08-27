@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.jyhao.cn/friends/index.html</loc>
+    <loc>https://www.jyhao.cn/archives/52037.html</loc>
     
     <lastmod>2022-08-27</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://www.jyhao.cn/archives/52037.html</loc>
+    <loc>https://www.jyhao.cn/friends/index.html</loc>
     
     <lastmod>2022-08-27</lastmod>
     
@@ -110,20 +110,6 @@
 
   
   <url>
-    <loc>https://www.jyhao.cn/tags/Diana/</loc>
-    <lastmod>2022-08-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jyhao.cn/tags/MiBand/</loc>
-    <lastmod>2022-08-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.jyhao.cn/tags/APP/</loc>
     <lastmod>2022-08-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -153,6 +139,20 @@
   
   <url>
     <loc>https://www.jyhao.cn/tags/Minecraft/</loc>
+    <lastmod>2022-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jyhao.cn/tags/Diana/</loc>
+    <lastmod>2022-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jyhao.cn/tags/MiBand/</loc>
     <lastmod>2022-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
