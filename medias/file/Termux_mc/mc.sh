@@ -26,8 +26,8 @@ echo -e "${green}正在安装相关依赖${none}"
 if [ ! $(command -v whiptail) ]
 then apt install whiptail -y
 fi
-if [ ! $(command -v aria2c) ]
-then apt install aria2 -y
+if [ ! $(command -v wget) ]
+then apt install wget -y
 fi
 if [ ! $(command -v unzip) ]
 then apt install unzip -y
@@ -144,9 +144,9 @@ case ${VERSION} in
 esac
 mkdir ${HOME}/mc
 echo -e "${green}正在下载服务端,请保持网络通畅${none}"
-aria2c --console-log-level=warn --no-conf -d "${HOME}/mc/" --allow-overwrite=true -o "mc.zip" "https://minecraft.azureedge.net/bin-linux/bedrock-server-${VER}.zip"
+wget https://minecraft.azureedge.net/bin-linux/bedrock-server-${VER}.zip
 echo -e "${green}正在解压${none}"
-unzip -q -d ${HOME}/mc/ ${HOME}/mc/mc.zip
+unzip -q -d ${HOME}/mc/ ${HOME}/mc/bedrock-server-${VER}.zip
 rm ${HOME}/mc/mc.zip
 chmod +x ${HOME}/mc/bedrock_server
 cat > ${HOME}/mc/server.properties << EOF
