@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.jyhao.cn/archives/25796.html</loc>
+    
+    <lastmod>2022-08-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jyhao.cn/archives/4452.html</loc>
+    
+    <lastmod>2022-08-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.jyhao.cn/archives/52037.html</loc>
     
     <lastmod>2022-08-02</lastmod>
@@ -32,15 +50,6 @@
     <loc>https://www.jyhao.cn/friends/index.html</loc>
     
     <lastmod>2022-07-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jyhao.cn/archives/25796.html</loc>
-    
-    <lastmod>2022-07-02</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -94,7 +103,7 @@
 
   <url>
     <loc>https://www.jyhao.cn/</loc>
-    <lastmod>2022-08-26</lastmod>
+    <lastmod>2022-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -102,35 +111,49 @@
   
   <url>
     <loc>https://www.jyhao.cn/tags/APP/</loc>
-    <lastmod>2022-08-26</lastmod>
+    <lastmod>2022-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.jyhao.cn/tags/Matery/</loc>
-    <lastmod>2022-08-26</lastmod>
+    <lastmod>2022-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.jyhao.cn/tags/Hexo/</loc>
-    <lastmod>2022-08-26</lastmod>
+    <lastmod>2022-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jyhao.cn/tags/Diana/</loc>
+    <lastmod>2022-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jyhao.cn/tags/MiBand/</loc>
+    <lastmod>2022-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.jyhao.cn/tags/Termux/</loc>
-    <lastmod>2022-08-26</lastmod>
+    <lastmod>2022-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.jyhao.cn/tags/Minecraft/</loc>
-    <lastmod>2022-08-26</lastmod>
+    <lastmod>2022-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -138,8 +161,15 @@
 
   
   <url>
+    <loc>https://www.jyhao.cn/categories/Share/</loc>
+    <lastmod>2022-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.jyhao.cn/categories/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-08-26</lastmod>
+    <lastmod>2022-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
