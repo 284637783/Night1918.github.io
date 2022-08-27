@@ -146,8 +146,7 @@ mkdir ${HOME}/mc
 echo -e "${green}正在下载服务端,请保持网络通畅${none}"
 wget https://minecraft.azureedge.net/bin-linux/bedrock-server-${VER}.zip
 echo -e "${green}正在解压${none}"
-unzip -q -d ${HOME}/mc/ ${HOME}/mc/bedrock-server-${VER}.zip
-rm ${HOME}/mc/mc.zip
+unzip -q -d ${HOME}/mc/ ${HOME}/bedrock-server-${VER}.zip
 chmod +x ${HOME}/mc/bedrock_server
 cat > ${HOME}/mc/server.properties << EOF
 server-name=Dedicated Server
