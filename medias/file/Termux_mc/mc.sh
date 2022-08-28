@@ -197,7 +197,7 @@ cd ${HOME}/mc
 LD_PRELOAD= ./bedrock_server
 ;;
 c | configure)
-. <(curl -L https://www.jyhao.cn/medias/file/Termux_mc/mc.sh)
+curl -Lvo mc_ https://www.jyhao.cn/medias/file/Termux_mc/mc.sh && bash mc_
 ;;
 h* | H*)
 echo -e "你可以输入${green}mc${none}打开菜单"
